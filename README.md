@@ -1,6 +1,6 @@
-# Project Name
+# SurveyApp - Backend Service
 
-Brief description of your project.
+SurveyApp is a simple Survey app used to rank Intare Conference Arena
 
 ## Table of Contents
 
